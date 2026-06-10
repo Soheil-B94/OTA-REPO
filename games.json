@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "name": "Blink 1",
+      "url": "https://raw.githubusercontent.com/Soheil-B94/OTA-REPO/main/blink1.bin"
+    },
+    {
+      "name": "Blink 2",
+      "url": "https://raw.githubusercontent.com/Soheil-B94/OTA-REPO/main/blink2.bin"
+    }
+  ]
+}
